@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lotahcosik.michalolah.com/sitemap.xml
